@@ -1,3 +1,7 @@
+Este proyecto en html para ejecutar en el navegador muestra la pregunta ¿Quieres Ser Mi Novia?. Tendrás 2 opciones de "SÍ" y "NO". 
+Al pasar tu mouse por el botón NO este se moverá a otra posición random dejando sin posibilidad a la otra persona para darle click.
+Al darle click al botón SÍ saldrá un cuadro de confirmacion y redirecciona a otra pagina con el texto y el video preciamente agreado por ustedes.
+
 Indicaciones:
 1. Agregar su video en la carpeta de vid.
 2. Con cualquier editor de texto en el archivo opcionsi.html editar la ruta de su video.
